@@ -1,0 +1,42 @@
+[
+  {
+    "model": "api.Userstype",
+    "pk": 1,
+    "fields": {
+      "user_type": "Client",
+      "description": "Un client de Fitness"
+    }
+  },
+  {
+    "model": "api.Userstype",
+    "pk": 2,
+    "fields": {
+      "user_type": "Coach",
+      "description": "Coach de Fitness"
+    }
+  },
+  {
+    "model": "api.Userstype",
+    "pk": 3,
+    "fields": {
+      "user_type": "Docteur",
+      "description": "Un docteur de Fitness"
+    }
+  },
+  {
+    "model": "api.Userstype",
+    "pk": 4,
+    "fields": {
+      "user_type": "Nutritionniste",
+      "description": "Un nutritionniste de Fitness"
+    }
+  },
+  {
+    "model": "api.Userstype",
+    "pk": 5,
+    "fields": {
+      "user_type": "Other",
+      "description": ""
+    }
+  }
+]

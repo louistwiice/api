@@ -1,0 +1,7 @@
+Django==3.2.6
+django-phonenumber-field==5.2.0
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.8.0
+djoser==2.1.0
+phonenumbers==8.12.29
+requests==2.26.0
